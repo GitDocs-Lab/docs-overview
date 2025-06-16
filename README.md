@@ -8,15 +8,17 @@ Explore, fork, and repeat each technique to build your own documentation workflo
 
 ## 🧭 Course Structure: Documentation Methods
 
-| Method              | Repozitár              | Popis                                        |
-| ------------------- | ---------------------- | -------------------------------------------- |
-| **1. MD only**      | `docs-md-demo`         | Čistý Markdown (README + odkazy), bez buildu |
-| **2. GitHub Pages** | `docs-sites-demo`      | `docs/` priečinok + Pages aktivovaný         |
-| **3. MkDocs**       | `docs-mkdocs-demo`     | `mkdocs.yml` + buildnutý výstup              |
-| **4. Docusaurus**   | `docs-docusaurus-demo` | Viacjazyčný React-based dokumentátor         |
-| **5. Hugo**         | `docs-hugo-demo`       | Ultra-rýchly web s peknými témami            |
-| **6. VitePress**    | `docs-vitepress-demo`  | Elegantný Vue-based dokumentačný generátor   |
 
+| # | Method           | Repozitár                                                                   | Pages URL                                                                                                                | Popis                                        |
+| - | ---------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| 1 | **Markdown**     | [docs-md-demo](https://github.com/GitDocs-Lab/docs-md-demo)                 | ✖ *(bez Pages)*                                                                                                          | Čistý Markdown (README + odkazy), bez buildu |
+| 2 | **GitHub Pages** | [docs-sites-demo](https://github.com/GitDocs-Lab/docs-sites-demo)           | [https://gitdocs-lab.github.io/docs-sites-demo/](https://gitdocs-lab.github.io/docs-sites-demo/)                         | `docs/` priečinok + Pages aktivovaný         |
+| 3 | **MkDocs**       | [docs-mkdocs-demo](https://github.com/GitDocs-Lab/docs-mkdocs-demo)         | [https://gitdocs-lab.github.io/docs-mkdocs-demo/](https://gitdocs-lab.github.io/docs-mkdocs-demo/) *(ak buildnuté)*      | `mkdocs.yml` + buildnutý výstup              |
+| 4 | **Docusaurus**   | [docs-docusaurus-demo](https://github.com/GitDocs-Lab/docs-docusaurus-demo) | [https://gitdocs-lab.github.io/docs-docusaurus-demo/](https://gitdocs-lab.github.io/docs-docusaurus-demo/) *(po deploy)* | Viacjazyčný React-based dokumentátor         |
+| 5 | **Hugo**         | [docs-hugo-demo](https://github.com/GitDocs-Lab/docs-hugo-demo)             | [https://gitdocs-lab.github.io/docs-hugo-demo/](https://gitdocs-lab.github.io/docs-hugo-demo/) *(po deploy)*             | Ultra-rýchly web s peknými témami            |
+| 6 | **VitePress**    | [docs-vitepress-demo](https://github.com/GitDocs-Lab/docs-vitepress-demo)   | [https://gitdocs-lab.github.io/docs-vitepress-demo/](https://gitdocs-lab.github.io/docs-vitepress-demo/) *(po deploy)*   | Elegantný Vue-based dokumentačný generátor   |
+
+---
 ---
 
 ## 🔁 Princíp „Ukáž – zopakuj“
@@ -46,3 +48,5 @@ Tento projekt je otvorený všetkým, ktorí sa chcú učiť alebo prispieť.
 ---
 
 🛠️ **Made with ❤️ for the Knowledge Sharing Community.**
+
+
